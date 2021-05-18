@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+
+    "module": "esnext",
+    "target": "es2017",
+    "sourceMap": true,
+
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "noImplicitThis": true,
+    "strict": true
+  }
+}
